@@ -1,0 +1,36 @@
+```
+The Berneout Pledge 1e
+
+Contributors to projects published under free-of-charge public
+licenses, or "free public projects", share specific expectations
+about licensing.  I make this pledge to show that I understand those
+expectations, share them, and follow them myself.
+
+Unless I specifically say otherwise, whenever I offer a contribution to
+a free public project, I license my contribution under the same license
+terms on which that project is licensed to the public at the time.
+
+I am aware of legal rules, like "work made for hire" rules, that can
+give employers and clients ownership of intellectual property in work
+that I do.  I am also aware that legal agreements I make can transfer
+ownership of intellectual property in my work to others.
+
+I pledge not to offer contributions to free public projects that
+I know may contain others' intellectual property without their
+written, legally binding permission.  When I offer a contribution with
+permission, I pledge to mention in the contribution who may own what
+intellectual property, and how they gave permission to contribute it.
+
+This pledge applies to all the contributions I offer, so long as I
+make this pledge available at:
+
+https://github.com/iamale/berneout-pledge/
+
+Signed: /Alexander Pushkov/
+        @iamale
+        2017-03-02T05:53+0000
+```
+
+The Berneout Pledge is a simple tool for hassle-free open-source contribution licensing.
+
+See https://github.com/berneout/berneout-pledge for more information about this.
